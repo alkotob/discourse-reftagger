@@ -1,5 +1,3 @@
-/* global Reftagger */
-
 import { withPluginApi, decorateCooked } from 'discourse/lib/plugin-api';
 import loadScript from 'discourse/lib/load-script';
 
