@@ -1,0 +1,4 @@
+plugins:
+  reftagger_language:
+    default: en
+    client: true
