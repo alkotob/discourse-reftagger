@@ -1,4 +1,7 @@
 plugins:
+  enable_reftagger_plugin:
+    default: false
+    client: true
   reftagger_language:
     default: en
     client: true

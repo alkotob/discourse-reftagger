@@ -1,3 +1,4 @@
 en:
   site_settings:
     reftagger_language: What language would you like to display for the UI?
+    enable_reftagger_plugin: Enable reftagger?
